@@ -1,30 +1,49 @@
-# Data-analyst-Projects
-This repository contains all my projects showcasting my knowledge in different skills like-Ms-Excel,Power BI,SQL and many more
+Data-Analyst-Projects
 
-1.E-commerce Data Analysis 
+This repository contains all my projects showcasing my knowledge in various tools and skills, including MS Excel, Power BI, SQL, and more.
 
-Project Description:This project focuses on analyzing e-commerce data using SQL and Python. Key highlights include:
-    
-->Writing advanced SQL queries to extract insights.
+1. E-commerce Data Analysis
 
-->Performing data cleaning, aggregation, and visualization.
+Project Description: This project focuses on analyzing e-commerce data using SQL and Python. Key highlights include:
 
-->Exploring customer behavior and sales trends.
+Writing advanced SQL queries to extract insights.
 
-->The repository contains the Jupyter Notebook with detailed analysis and visualizations.
+Performing data cleaning, aggregation, and visualization.
 
-2.Hotel Booking and Cancellation Analysis: 
+Exploring customer behavior and sales trends.
 
-->Explored trends in booking cancellations (37% rate) and guest behavior for City and Resort hotels using Python and Excel. 
+Repository Contents:
 
-->Analyzed room assignment efficiency,guest types, and yearly trends with actionable insights for improving operational strategies.
+A Jupyter Notebook containing detailed analysis and visualizations.
 
-3.Sales Insights Analysis | Power BI, Data Analytics | 
+2. Hotel Booking and Cancellation Analysis
 
-->Developed an interactive Power BI dashboard to analyze sales trends and performance, providing a comprehensive view of key metrics such as revenue, profit margins, and customer segmentation.
+Project Description:
 
-->Cleaned and processed raw sales data for accuracy, ensuring reliable insights into sales distribution across regions, product categories, and time periods.
+Explored trends in booking cancellations (37% rate) and guest behavior for City and Resort hotels using Python and Excel.
 
-->Identified actionable insights, including top-performing products and customer preferences, to enhance strategic decision-making.
+Analyzed room assignment efficiency, guest types, and yearly trends.
 
-->Enhanced visual storytelling by integrating dynamic visualizations and slicers, enabling users to explore trends and patterns in real-time.
+Derived actionable insights for improving operational strategies.
+
+Repository Contents:
+
+Detailed Excel reports and Python scripts used for analysis.
+
+3. Sales Insights Analysis
+
+Tools: Power BI, Data Analytics
+
+Project Description:
+
+Developed an interactive Power BI dashboard to analyze sales trends and performance, providing a comprehensive view of key metrics such as revenue, profit margins, and customer segmentation.
+
+Cleaned and processed raw sales data for accuracy, ensuring reliable insights into sales distribution across regions, product categories, and time periods.
+
+Identified actionable insights, including top-performing products and customer preferences, to enhance strategic decision-making.
+
+Enhanced visual storytelling by integrating dynamic visualizations and slicers, enabling users to explore trends and patterns in real-time.
+
+Repository Contents:
+
+Power BI files and a summary of findings in documentation.
