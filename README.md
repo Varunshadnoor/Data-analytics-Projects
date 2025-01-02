@@ -4,7 +4,7 @@ This repository contains all my projects showcasting my knowledge in different s
 1.E-commerce Data Analysis 
 
 Project Description:This project focuses on analyzing e-commerce data using SQL and Python. Key highlights include:
-
+    
 ->Writing advanced SQL queries to extract insights.
 
 ->Performing data cleaning, aggregation, and visualization.
