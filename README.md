@@ -16,6 +16,7 @@ Project Description:\
 *Explored booking cancellation trends (37% rate) and guest behavior for City and Resort hotels using Python and Excel.\
 *Analyzed room assignment efficiency, guest types, and yearly trends.\
 *Derived actionable insights to improve operational strategies.
+This project is featured in my resume as ‘Customer Retention Analysis for Hospitality
 
 
 3. Sales Insights Analysis
