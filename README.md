@@ -9,6 +9,7 @@ Project Description:\
 *Wrote advanced SQL queries to extract insights.\
 *Performed data cleaning, aggregation, and visualization.\
 *Explored customer behavior and sales trends.
+*This project is featured in my resume as Consumer Behavior & Product Strategy Analysis.
 
 2. Hotel Booking and Cancellation Analysis
 
@@ -16,7 +17,7 @@ Project Description:\
 *Explored booking cancellation trends (37% rate) and guest behavior for City and Resort hotels using Python and Excel.\
 *Analyzed room assignment efficiency, guest types, and yearly trends.\
 *Derived actionable insights to improve operational strategies.
-This project is featured in my resume as ‘Customer Retention Analysis for Hospitality
+*This project is featured in my resume as ‘Customer Retention Analysis for Hospitality.
 
 
 3. Sales Insights Analysis
